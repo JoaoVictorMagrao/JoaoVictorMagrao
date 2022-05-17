@@ -1,4 +1,4 @@
-### Ola, me chamo João Victor, e no momento trabalho desenvolvendo aplicativos.
+### Ola, me chamo João Victor, e no momento trabalho desenvolvendo aplicativos e sites.
 
 
 
