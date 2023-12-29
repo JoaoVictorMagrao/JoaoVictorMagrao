@@ -15,7 +15,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mime</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 21 anos, e durante minha jornada de trabalho com programação adiquiri experiências com React, React Native, Nodejs, .NET e PHP.
 
